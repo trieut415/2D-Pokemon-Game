@@ -2,7 +2,7 @@ A simple 2D Pokemon game, where trainers and pokemon are placed onto a 2D plane 
 amount of pokemon gyms and centers, where pokemon fight each other and can go to centers to recover.
 
 Here is a description of the commands and their input values:
-● m ID x y
+● m ID x y \n
 ● "move": command Trainer ID to move to location (x, y)
 ● c ID1 ID2
 ● "move towards a PokemonCenter”: command Trainer ID1 to start heading to
