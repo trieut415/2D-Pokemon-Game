@@ -1,0 +1,2 @@
+In my WildPokemon Class, I decided to make the Wild pokemon attack the trainer if they were in the same location. I was able to display the Wild pokemon on the grid and attempted to make them follow the trainer, however I kept getting segmentation faults that were very hard to debug, and after multiple hours of trying it did not work for me. My implementation is shown in the GameCommand files using the follow function. 
+
